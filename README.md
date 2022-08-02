@@ -18,8 +18,9 @@ My name is **Larissa**, I'm **25**, **Back-End Engineer** and full-time **nerd**
 :sparkles: You can find me on discord playing the most random game ever (Powerwash Simulator is my s***);<br/>
 :sparkles: Love drumming but my neighbors don't.<br/>
 
-You can find me over at
+You can find me over at:
 
 <a href="https://linkedin.com/in/cmdrlias/"><img align="left" src="resources/linkedin.png" alt="Larissa Silva | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/nickeldumbb"><img align="left" src="resources/twitter.png" alt="nickeldumbb | Twitter" width="21px"/></a>
 <a href="https://instagram.com/larssslv"><img align="left" src="resources/instagram.png" alt="larssslv | Instagram" width="21px"/></a>
+<a href="https://twitch.tv/nickeldumb"><img align="left" src="resources/twitch.png" alt="larssslv | twitch" width="21px"/></a>
