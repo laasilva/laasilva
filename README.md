@@ -15,4 +15,4 @@ My name is **Larissa**, I'm **25**, **Back-End Engineer** and full-time **nerd**
 :sparkles: Currently working at Dell Technologies; <br/>
 :sparkles: Really into starting projects and never finishing them; <br/>
 :sparkles: You can find me on discord playing the most random game ever (Powerwash Simulator is my s***);<br/>
-:sparkles: Love drumming nut my neighbors don't.<br/>
+:sparkles: Love drumming but my neighbors don't.<br/>
