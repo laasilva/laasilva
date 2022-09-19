@@ -13,7 +13,7 @@
 
 My name is **Larissa**, I'm **25**, **Back-End Engineer** and full-time **nerd**.
 
-:sparkles: I'm a senior Java lover; <br/>
+:sparkles: I'm a senior Java developer; <br/>
 :sparkles: Currently working at Dell Technologies; <br/>
 :sparkles: Really into starting projects and never finishing them; <br/>
 :sparkles: You can find me on discord playing the most random game ever (Powerwash Simulator is my s***);<br/>
