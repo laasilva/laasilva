@@ -11,9 +11,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-My name is **Larissa**, I'm **25**, **Back-End Engineer** and full-time **nerd**.
+My name is **Larissa**, I'm **25**, **Software Engineer** and full-time **nerd**.
 
-:sparkles: I'm a senior Java developer; <br/>
+:sparkles: I'm currently a Java / React developer; <br/>
 :sparkles: Currently working at Dell Technologies; <br/>
 :sparkles: Really into starting projects and never finishing them; <br/>
 :sparkles: You can find me on discord playing the most random game ever (Powerwash Simulator is my s***);<br/>
