@@ -11,7 +11,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-My name is **Larissa**, I'm **26**, **Software Engineer** and full-time **nerd**.
+My name is **Larissa**, I'm **27**, **Software Engineer** and full-time **nerd**.
 
 :sparkles: I'm currently a Java / React developer; <br/>
 :sparkles: Currently working at Dell Technologies; <br/>
