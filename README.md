@@ -10,7 +10,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-My name is **Larissa**, I'm **27**, **Software Engineer** and full-time **nerd**.
+My name is **Larissa**, I'm **28** and I'm a full-time **nerd**.
 
 :sparkles: Software engineer; <br/>
 :sparkles: Really into starting projects and never finishing them; <br/>
