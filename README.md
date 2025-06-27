@@ -2,22 +2,30 @@
   <img src="resources/200.gif" />
 </p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+# 👋 Hi, I'm Larissa!
 
-My name is **Larissa**, I'm **28** and I'm a full-time **nerd**.
+🌟 28 years old | Software Engineer | Full-time Nerd
 
-:sparkles: Software engineer; <br/>
-:sparkles: Really into starting projects and never finishing them; <br/>
-:sparkles: You can find me on discord playing the most random game ever (Powerwash Simulator is my s***);<br/>
-:sparkles: Love drumming but my neighbors don't.<br/>
+## 💻 About Me
 
-You can find me over at:
+I'm a full-stack developer who loves building smart, scalable solutions — mostly using:
+
+- 🧠 Java + Spring Boot
+- ⚡ TypeScript, React, Vue.js
+- 🛠️ Microservices, REST APIs, Clean Architecture
+- ☁️ Azure DevOps, RabbitMQ, MongoDB
+
+I’m passionate about clean code, thoughtful design, and finding practical solutions that make real-world impact. Bonus: I’ve literally helped machines make better coffee ☕.
+
+## 🎮 Outside the Terminal
+
+When I'm not coding, you’ll probably find me:
+
+- ⚔️ Playing **Baldur’s Gate III** (for the n-th time)
+- 🧟‍♀️ Dying with dignity in some **Soulslike** game
+- 🥁 Drumming like no one’s listening (but my neighbors definitely are)
+
+## 🚀 Let’s Connect!
 
 <a href="https://linkedin.com/in/cmdrlias/"><img align="left" src="resources/linkedin.png" alt="Larissa Silva | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/nickeldumbb"><img align="left" src="resources/twitter.png" alt="nickeldumbb | Twitter" width="21px"/></a>
