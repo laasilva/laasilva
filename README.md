@@ -15,7 +15,8 @@ I'm a full-stack developer who loves building smart, scalable solutions — most
 - 🛠️ Microservices, REST APIs, Clean Architecture
 - ☁️ Azure DevOps, RabbitMQ, MongoDB
 
-I’m passionate about clean code, thoughtful design, and finding practical solutions that make real-world impact. Bonus: I’ve literally helped machines make better coffee ☕.
+I’m passionate about clean code, thoughtful design, and finding practical solutions that make real-world impact. 
+☕ Bonus: I’ve built software for coffee machines, so yes — my code runs on caffeine in more ways than one.
 
 ## 🎮 Outside the Terminal
 
