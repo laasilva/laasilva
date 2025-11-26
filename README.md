@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Larissa!
 
-🌟 28 years old | Software Engineer | Full-time Nerd
+🌟 29 years old | Software Engineer | Full-time Nerd
 
 ## 💻 About Me
 
